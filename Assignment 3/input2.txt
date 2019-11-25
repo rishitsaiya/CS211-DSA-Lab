@@ -1,0 +1,198 @@
+insert 9
+sort
+extract-max
+insert 83
+insert 48
+maximum
+insert 26
+increase-key 1 69
+insert 86
+insert 33
+extract-max
+insert 14
+sort
+extract-max
+insert 41
+insert 50
+insert 78
+insert 38
+insert 37
+increase-key 4 96
+increase-key 7 16
+maximum
+insert 56
+increase-key 4 41
+insert 33
+sort
+maximum
+increase-key 3 92
+insert 53
+insert 11
+insert 88
+insert 85
+sort
+insert 66
+insert 19
+insert 87
+insert 81
+extract-max
+insert 84
+maximum
+insert 5
+insert 61
+maximum
+insert 31
+insert 85
+insert 88
+insert 62
+maximum
+extract-max
+insert 95
+maximum
+increase-key 20 73
+extract-max
+insert 27
+insert 38
+insert 82
+insert 18
+increase-key 11 26
+sort
+insert 13
+increase-key 4 8
+insert 55
+increase-key 1 67
+extract-max
+insert 9
+insert 66
+insert 90
+insert 37
+insert 50
+insert 49
+insert 58
+insert 55
+sort
+maximum
+insert 3
+sort
+increase-key 1 91
+insert 15
+insert 52
+maximum
+maximum
+insert 49
+insert 23
+sort
+sort
+sort
+maximum
+insert 48
+insert 29
+sort
+insert 91
+extract-max
+extract-max
+increase-key 15 54
+increase-key 0 79
+increase-key 27 29
+insert 39
+extract-max
+insert 59
+insert 21
+sort
+insert 28
+insert 95
+insert 23
+insert 40
+increase-key 34 44
+insert 18
+insert 2
+insert 74
+extract-max
+insert 54
+insert 27
+insert 56
+extract-max
+insert 6
+insert 99
+extract-max
+increase-key 38 32
+insert 47
+extract-max
+insert 50
+sort
+insert 4
+insert 13
+increase-key 10 9
+insert 37
+insert 40
+insert 49
+maximum
+insert 38
+insert 84
+insert 93
+extract-max
+insert 87
+sort
+maximum
+increase-key 8 11
+insert 15
+extract-max
+insert 51
+increase-key 54 48
+insert 3
+insert 15
+maximum
+insert 85
+insert 6
+insert 37
+increase-key 31 16
+insert 24
+insert 2
+increase-key 66 19
+increase-key 67 6
+sort
+increase-key 4 95
+insert 10
+insert 57
+increase-key 4 73
+maximum
+insert 77
+insert 94
+maximum
+increase-key 74 73
+insert 81
+increase-key 31 60
+extract-max
+maximum
+insert 93
+insert 25
+maximum
+insert 10
+extract-max
+extract-max
+insert 62
+insert 86
+maximum
+maximum
+sort
+insert 38
+insert 56
+insert 49
+increase-key 45 35
+insert 96
+insert 15
+extract-max
+insert 95
+increase-key 58 58
+insert 29
+insert 55
+extract-max
+insert 76
+extract-max
+insert 32
+increase-key 16 7
+maximum
+sort
+insert 39
+insert 83
+maximum

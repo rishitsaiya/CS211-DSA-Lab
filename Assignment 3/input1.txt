@@ -1,0 +1,158 @@
+maximum
+extract-max
+insert 62
+maximum
+extract-max
+maximum
+insert 57
+insert 5
+insert 52
+insert 20
+maximum
+extract-max
+increase-key 2 64
+insert 25
+extract-max
+sort
+sort
+sort
+sort
+increase-key 0 29
+increase-key 2 27
+insert 22
+increase-key 1 53
+maximum
+sort
+increase-key 0 89
+maximum
+maximum
+sort
+increase-key 2 93
+insert 37
+insert 75
+insert 52
+insert 79
+extract-max
+increase-key 6 10
+sort
+insert 92
+insert 65
+insert 40
+sort
+insert 48
+insert 17
+insert 1
+insert 65
+extract-max
+insert 69
+insert 70
+increase-key 12 11
+maximum
+insert 43
+sort
+insert 37
+maximum
+maximum
+maximum
+insert 70
+insert 41
+sort
+increase-key 1 61
+insert 16
+insert 8
+increase-key 0 28
+increase-key 1 95
+insert 45
+sort
+extract-max
+sort
+insert 67
+insert 65
+extract-max
+insert 27
+sort
+insert 52
+insert 94
+increase-key 0 98
+insert 14
+insert 39
+insert 87
+maximum
+maximum
+extract-max
+maximum
+maximum
+increase-key 15 43
+insert 57
+increase-key 19 64
+maximum
+sort
+insert 51
+insert 92
+insert 40
+insert 64
+increase-key 21 2
+maximum
+maximum
+increase-key 22 11
+maximum
+extract-max
+insert 19
+increase-key 10 50
+insert 47
+insert 62
+insert 67
+insert 69
+maximum
+insert 79
+insert 2
+maximum
+sort
+extract-max
+insert 40
+sort
+insert 14
+increase-key 19 40
+insert 81
+insert 18
+extract-max
+insert 2
+extract-max
+sort
+insert 0
+extract-max
+maximum
+increase-key 25 64
+sort
+extract-max
+maximum
+extract-max
+increase-key 5 7
+extract-max
+insert 48
+insert 38
+maximum
+sort
+sort
+insert 38
+insert 14
+increase-key 22 82
+insert 77
+increase-key 25 55
+maximum
+sort
+insert 88
+insert 54
+sort
+sort
+extract-max
+insert 99
+increase-key 24 78
+insert 65
+maximum
+increase-key 42 78
+increase-key 35 20
+insert 17
+insert 64
+maximum
+insert 48

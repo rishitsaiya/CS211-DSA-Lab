@@ -1,0 +1,158 @@
+
+
+62 inserted
+62
+62
+
+57 inserted
+5 inserted
+52 inserted
+20 inserted
+57
+57
+Key at 2 changed to 64
+25 inserted
+64
+20 25 52
+20 25 52
+20 25 52
+20 25 52
+29 is less than the current key at 0
+Key at 2 changed to 27
+22 inserted
+Key at 1 changed to 53
+53
+22 27 52 53
+Key at 0 changed to 89
+89
+89
+22 27 52 89
+Key at 2 changed to 93
+37 inserted
+75 inserted
+52 inserted
+79 inserted
+93
+10 is less than the current key at 6
+22 37 52 52 75 79 89
+92 inserted
+65 inserted
+40 inserted
+22 37 40 52 52 65 75 79 89 92
+48 inserted
+17 inserted
+1 inserted
+65 inserted
+92
+69 inserted
+70 inserted
+Key at 12 changed to 11
+89
+43 inserted
+11 17 22 37 40 43 48 52 52 65 65 69 70 75 79 89
+37 inserted
+89
+89
+89
+70 inserted
+41 inserted
+11 17 22 37 37 40 41 43 48 52 52 65 65 69 70 70 75 79 89
+61 is less than the current key at 1
+16 inserted
+8 inserted
+28 is less than the current key at 0
+Key at 1 changed to 95
+45 inserted
+8 11 16 17 22 37 37 40 41 43 45 48 52 52 65 65 69 70 70 75 89 95
+95
+8 11 16 17 22 37 37 40 41 43 45 48 52 52 65 65 69 70 70 75 89
+67 inserted
+65 inserted
+89
+27 inserted
+8 11 16 17 22 27 37 37 40 41 43 45 48 52 52 65 65 65 67 69 70 70 75
+52 inserted
+94 inserted
+Key at 0 changed to 98
+14 inserted
+39 inserted
+87 inserted
+98
+98
+98
+87
+87
+Key at 15 changed to 43
+57 inserted
+Key at 19 changed to 64
+87
+8 11 14 17 22 27 37 37 39 40 41 43 45 48 52 52 52 57 64 65 65 65 67 69 70 70 75 87
+51 inserted
+92 inserted
+40 inserted
+64 inserted
+2 is less than the current key at 21
+92
+92
+11 is less than the current key at 22
+92
+92
+19 inserted
+50 is less than the current key at 10
+47 inserted
+62 inserted
+67 inserted
+69 inserted
+87
+79 inserted
+2 inserted
+87
+2 8 11 14 17 19 22 27 37 37 39 40 40 41 43 45 47 48 51 52 52 52 57 62 64 64 65 65 65 67 67 69 69 70 70 75 79 87
+87
+40 inserted
+2 8 11 14 17 19 22 27 37 37 39 40 40 40 41 43 45 47 48 51 52 52 52 57 62 64 64 65 65 65 67 67 69 69 70 70 75 79
+14 inserted
+Key at 19 changed to 40
+81 inserted
+18 inserted
+81
+2 inserted
+79
+2 2 8 11 14 14 17 18 19 22 27 37 39 40 40 40 40 41 43 45 47 48 51 52 52 52 57 62 64 64 65 65 65 67 67 69 69 70 70 75
+0 inserted
+75
+70
+Key at 25 changed to 64
+0 2 2 8 14 14 17 18 19 22 27 37 39 40 40 40 40 41 43 45 47 48 51 52 52 52 57 62 64 64 64 65 65 65 67 67 69 69 70 70
+70
+70
+70
+7 is less than the current key at 5
+69
+48 inserted
+38 inserted
+69
+0 2 2 8 14 14 17 18 19 22 27 37 38 39 40 40 40 40 41 43 45 47 48 48 51 52 52 52 57 62 64 64 64 65 65 65 67 67 69
+0 2 2 8 14 14 17 18 19 22 27 37 38 39 40 40 40 40 41 43 45 47 48 48 51 52 52 52 57 62 64 64 64 65 65 65 67 67 69
+38 inserted
+14 inserted
+Key at 22 changed to 82
+77 inserted
+Key at 25 changed to 55
+82
+0 2 2 8 14 14 14 17 18 19 22 37 38 38 40 40 40 40 41 43 45 47 48 48 51 52 52 52 55 57 62 64 64 64 65 65 65 67 67 69 77 82
+88 inserted
+54 inserted
+0 2 2 8 14 14 14 17 18 19 22 37 38 38 40 40 40 40 41 43 45 47 48 48 51 52 52 52 54 55 57 62 64 64 64 65 65 65 67 67 69 77 82 88
+0 2 2 8 14 14 14 17 18 19 22 37 38 38 40 40 40 40 41 43 45 47 48 48 51 52 52 52 54 55 57 62 64 64 64 65 65 65 67 67 69 77 82 88
+88
+99 inserted
+Key at 24 changed to 78
+65 inserted
+99
+Key at 42 changed to 78
+Key at 35 changed to 20
+17 inserted
+64 inserted
+99
+48 inserted
