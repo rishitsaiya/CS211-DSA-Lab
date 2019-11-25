@@ -1,0 +1,93 @@
+successor 13
+inorder
+insert 28
+successor 92
+insert 38
+search 4
+insert 52
+delete 86
+insert 12
+maximum
+minimum
+successor 70
+insert 56
+search 72
+delete 93
+successor 36
+insert 76
+delete 44
+maximum
+insert 57
+successor 61
+insert 94
+insert 98
+postorder
+minimum
+minimum
+insert 44
+insert 91
+insert 42
+delete 44
+postorder
+insert 59
+insert 45
+maximum
+predecessor 43
+insert 80
+delete 67
+inorder
+preorder
+minimum
+delete 8
+inorder
+insert 26
+insert 89
+search 13
+preorder
+successor 4
+preorder
+insert 43
+insert 55
+insert 90
+postorder
+search 93
+insert 86
+successor 70
+search 52
+insert 49
+inorder
+insert 40
+successor 77
+successor 97
+predecessor 30
+insert 87
+maximum
+minimum
+successor 97
+insert 92
+successor 72
+predecessor 67
+delete 8
+search 18
+insert 78
+insert 85
+search 55
+insert 20
+delete 88
+postorder
+preorder
+insert 60
+preorder
+insert 7
+successor 35
+insert 35
+insert 79
+delete 94
+insert 82
+search 59
+successor 35
+postorder
+insert 83
+inorder
+insert 17
+successor 41
