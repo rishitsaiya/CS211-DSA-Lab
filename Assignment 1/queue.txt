@@ -1,0 +1,151 @@
+
+
+enqueued 38
+enqueued 7
+38 7 
+dequeued 38
+not found 20
+enqueued 19
+not found 69
+not found 11
+dequeued 7
+not found 53
+dequeued 19
+
+enqueued 74
+enqueued 31
+enqueued 34
+enqueued 3
+74 31 34 3 
+not found 41
+enqueued 99
+74 31 34 3 99 
+found 31
+not found 60
+dequeued 74
+dequeued 31
+not found 23
+enqueued 7
+enqueued 51
+dequeued 34
+not found 43
+enqueued 90
+found 99
+enqueued 4
+enqueued 66
+enqueued 48
+dequeued 3
+99 7 51 90 4 66 48 
+enqueued 79
+dequeued 99
+dequeued 7
+enqueued 26
+51 90 4 66 48 79 26 
+not found 24
+51 90 4 66 48 79 26 
+not found 27
+dequeued 51
+90 4 66 48 79 26 
+enqueued 42
+90 4 66 48 79 26 42 
+not found 93
+enqueued 8
+enqueued 39
+dequeued 90
+not found 56
+dequeued 4
+enqueued 83
+dequeued 66
+enqueued 19
+48 79 26 42 8 39 83 19 
+enqueued 87
+48 79 26 42 8 39 83 19 87 
+enqueued 42
+enqueued 96
+not found 92
+not found 0
+48 79 26 42 8 39 83 19 87 42 96 
+enqueued 94
+48 79 26 42 8 39 83 19 87 42 96 94 
+enqueued 94
+enqueued 91
+dequeued 48
+enqueued 23
+enqueued 87
+not found 43
+enqueued 27
+enqueued 28
+79 26 42 8 39 83 19 87 42 96 94 94 91 23 87 27 28 
+found 87
+79 26 42 8 39 83 19 87 42 96 94 94 91 23 87 27 28 
+not found 73
+dequeued 79
+enqueued 81
+not found 9
+enqueued 1
+enqueued 40
+dequeued 26
+enqueued 85
+enqueued 83
+not found 24
+42 8 39 83 19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 
+enqueued 68
+enqueued 49
+enqueued 45
+enqueued 36
+enqueued 52
+dequeued 42
+dequeued 8
+not found 93
+enqueued 31
+not found 47
+not found 92
+39 83 19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 
+39 83 19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 
+enqueued 79
+39 83 19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 
+39 83 19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 
+dequeued 39
+not found 61
+enqueued 97
+83 19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 
+found 94
+83 19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 
+dequeued 83
+19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 
+19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 
+not found 73
+enqueued 5
+not found 35
+19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 5 
+overflow
+not found 9
+19 87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 5 
+dequeued 19
+87 42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 5 
+dequeued 87
+enqueued 48
+enqueued 14
+42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 5 48 14 
+42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 5 48 14 
+42 96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 5 48 14 
+dequeued 42
+not found 26
+enqueued 94
+found 28
+96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 5 48 14 94 
+96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 5 48 14 94 
+overflow
+overflow
+96 94 94 91 23 87 27 28 81 1 40 85 83 68 49 45 36 52 31 79 97 5 48 14 94 
+overflow
+overflow
+overflow
+overflow
+overflow
+overflow
+overflow
+overflow
+dequeued 96
+not found 13
+found 5

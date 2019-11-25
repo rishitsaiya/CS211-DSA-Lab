@@ -1,0 +1,151 @@
+
+
+pushed 38
+pushed 7
+7 38 
+popped 7
+not found 20
+pushed 19
+not found 69
+not found 11
+popped 19
+not found 53
+popped 38
+
+pushed 74
+pushed 31
+pushed 34
+pushed 3
+3 34 31 74 
+not found 41
+pushed 99
+99 3 34 31 74 
+found 31
+not found 60
+popped 99
+popped 3
+not found 23
+pushed 7
+pushed 51
+popped 51
+not found 43
+pushed 90
+not found 99
+pushed 4
+pushed 66
+pushed 48
+popped 48
+66 4 90 7 34 31 74 
+pushed 79
+popped 79
+popped 66
+pushed 26
+26 4 90 7 34 31 74 
+not found 24
+26 4 90 7 34 31 74 
+not found 27
+popped 26
+4 90 7 34 31 74 
+pushed 42
+42 4 90 7 34 31 74 
+not found 93
+pushed 8
+pushed 39
+popped 39
+not found 56
+popped 8
+pushed 83
+popped 83
+pushed 19
+19 42 4 90 7 34 31 74 
+pushed 87
+87 19 42 4 90 7 34 31 74 
+pushed 42
+pushed 96
+not found 92
+not found 0
+96 42 87 19 42 4 90 7 34 31 74 
+pushed 94
+94 96 42 87 19 42 4 90 7 34 31 74 
+pushed 94
+pushed 91
+popped 91
+pushed 23
+pushed 87
+not found 43
+pushed 27
+pushed 28
+28 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+found 87
+28 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+not found 73
+popped 28
+pushed 81
+not found 9
+pushed 1
+pushed 40
+popped 40
+pushed 85
+pushed 83
+not found 24
+83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+pushed 68
+pushed 49
+pushed 45
+pushed 36
+pushed 52
+popped 52
+popped 36
+not found 93
+pushed 31
+not found 47
+not found 92
+31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+pushed 79
+79 31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+79 31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+popped 79
+not found 61
+pushed 97
+97 31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+found 94
+97 31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+popped 97
+31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+not found 73
+pushed 5
+not found 35
+5 31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+overflow
+not found 9
+5 31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+popped 5
+31 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+popped 31
+pushed 48
+pushed 14
+14 48 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+14 48 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+14 48 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+popped 14
+not found 26
+pushed 94
+not found 28
+94 48 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+94 48 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+overflow
+overflow
+94 48 45 49 68 83 85 1 81 27 87 23 94 94 96 42 87 19 42 4 90 7 34 31 74 
+overflow
+overflow
+overflow
+overflow
+overflow
+overflow
+overflow
+overflow
+popped 94
+not found 13
+not found 5
