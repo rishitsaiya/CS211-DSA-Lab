@@ -21,10 +21,10 @@ The code(s) in each directory has been named as ```180010027.cpp```.
 5. Assignment 5\
   This assignment is for the implementation of Radix Sort.
 6. Assignment 6\
-  This assignment is for the implement BFS to solve the shortest path problem on directed graphs and to implement DFS to do Topological Sorting of a DAG.
+  This assignment is to implement BFS to solve the shortest path problem on directed graphs and to implement DFS to do Topological Sorting of a DAG.
 7. Assignment 7\
-  This assignment is for the implement Kruskal's Algorithm to find MST of a given connected edge-weighted undirected graph.
+  This assignment is to implement Kruskal's Algorithm to find MST of a given connected edge-weighted undirected graph.
 8. Assignment 8\
-  This assignment is for the implement Kruskal's Algorithm to find MST of a given connected edge-weighted undirected graph.
+  This assignment is to implement Dijkstra's algorithm to find the shortest path distances from a source vertex to every vertex in the input graph, which is directed and has non-negative weights on edges.
 
 ## PR's are open for refinement in codes.
