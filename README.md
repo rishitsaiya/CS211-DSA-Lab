@@ -27,6 +27,8 @@ The code(s) in each directory has been named as ```180010027.cpp```.
 8. Assignment 8\
   This assignment is to implement Dijkstra's algorithm to find the shortest path distances from a source vertex to every vertex in the input graph, which is directed and has non-negative weights on edges.
 9. Assignment 9\
-  This assignment is to implement Hashin using Doubly Linked lists.
+  This assignment is to implement Hashing using Doubly Linked lists.
+10. Assignment 10\
+  This assignment is to implement Extended Euclidean algorithm.
 
 ## PR's are open for refinement in codes.
