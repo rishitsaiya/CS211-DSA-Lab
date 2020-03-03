@@ -33,5 +33,5 @@ The code(s) in each directory has been named as ```180010027.cpp```.
 
 ### All the details regarding each assignment is given in respective directory.
 
-## PR's are open for refinement in codes.
+## PR's are open for refinement and betterment in codes.
 
