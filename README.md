@@ -31,7 +31,7 @@ The code(s) in each directory has been named as ```180010027.cpp```.
 10. Assignment 10\
   This assignment is to implement Extended Euclidean algorithm.
 
-### All the details regarding each assignment is given in respective directory.
+### All the details regarding each assignment is given in its respective directory.
 
 ## PR's are open for refinement and betterment in codes.
 
