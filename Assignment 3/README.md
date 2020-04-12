@@ -1,4 +1,4 @@
+Commands to run:
 
-## This is the readme for 3rd assignment
-
-This is a test.
+- [x] ```g++ 180010027.cpp```
+- [x] ```./a.out input.txt```
