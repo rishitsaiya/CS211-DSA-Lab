@@ -1,4 +1,6 @@
-### DSA-Lab
+### DSA-Lab 
+[![HitCount](http://hits.dwyl.com/rishitsaiya/DSA-Lab.svg)](http://hits.dwyl.com/rishitsaiya/DSA-Lab)
+
 All the codes of DSA Lab Course (CS 211) are given here. Further, each lab session has been put in different directory as shown above.
 
 ### Problem Statements
