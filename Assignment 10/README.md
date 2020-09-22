@@ -1,2 +1,4 @@
+Commands to run:
 
-This is a test.
+- [x] `g++ 180010027.cpp`
+- [x] `./a.out 8 13`
