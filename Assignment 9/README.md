@@ -1,4 +1,4 @@
+Commands to run:
 
-this is a test. 
-
-When you run this, you are on.
+- [x] `g++ 180010027.cpp`
+- [x] `./a.out words.txt 25000 query.txt`
