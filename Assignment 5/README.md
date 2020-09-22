@@ -1,2 +1,4 @@
+Commands to run:
 
-this is a readme for assignment 5
+- [x] `g++ 180010027.cpp`
+- [x] `./a.out input.txt 10`
